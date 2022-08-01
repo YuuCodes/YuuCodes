@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuuCodes : Subaccount of @1kewai
+- 👋 Hi, I’m @YuuCodes!
 - 👀 I’m interested in C#, python, C++, ruby.
 - 🌱 I’m currently learning ruby, C++, Rust.
 
