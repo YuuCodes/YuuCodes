@@ -1,6 +1,6 @@
 とある大学生ヲタクのgithub
 
-普段はRuby, Python, C#, C++, Bashなどを書いて生活しております。
+普段はRuby, Python, C#, C++, Bashなどを書いて生活している人
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ik-y&layout=compact&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
